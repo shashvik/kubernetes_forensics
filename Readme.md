@@ -1,4 +1,4 @@
-# 🕵️ Kubernetes Pod Forensics Lab
+# 🕵️ Kubernetes Pod Forensics
 
 A simple project to simulate a Kubernetes pod compromise and demonstrate container forensics using tools like `crictl`, volume extraction, and runtime analysis.
 
